@@ -12,4 +12,4 @@
 - 🔎 **Skills:** critical thinker, a great problem-solver, and a strong work ethic. 
 - 🔭 **Intrest:** I love to travel and see new places.
 
-
+I AM 35 YEARS OLD. I was born and raised in Auburn Hills, MI.
