@@ -1,16 +1,15 @@
-## Hi there 👋
+**ABOUT ME**
 
-<!--
-**Krhine02/Krhine02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Krhine02/Krhine02** is  a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+***I am a full-time Data Analyst and a mother of three. I love learning new programs in my career. As a data analyst I love taking data and manipulating it.*** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Things**
+
+- 🍳 **Hobbies:** I have are cooking and basketball. 
+- 📫 **How to reach me:** You can reach me by email at krhine02@gmail.com
+- 🏀 **Fun fact:** I played Division I Basketball at the University of Louisville.
+- 🔎 **Skills:** critical thinker, a great problem-solver, and a strong work ethic. 
+- 🔭 **Intrest:** I love to travel and see new places.
+
+
